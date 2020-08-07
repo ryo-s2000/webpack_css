@@ -1,0 +1,6 @@
+@import "./project/base";
+@import "./project/grid";
+
+// ここをwebpackがjsを参照したときに(index.js or application.js)みにくる
+// 省略した形でかけるのよ
+// TODO
